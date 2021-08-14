@@ -95,5 +95,10 @@ h3 {
 
 .created-by {
   font-size: 18px;
-  color: black;
+  color: whitesmoke;
+}
+
+.link {
+  color: whitesmoke;
+  text-decoration: none;
 }
